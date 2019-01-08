@@ -1,0 +1,43 @@
+@media (max-width: 3000px) {
+  html {
+    font-size: 20px; } }
+
+@media (max-width: 1600px) {
+  html {
+    font-size: 16px; } }
+
+@media (max-width: 1250px) {
+  html {
+    font-size: 14px; } }
+
+@media (max-width: 1150px) {
+  html {
+    font-size: 12px; } }
+
+@media (max-width: 1000px) {
+  html {
+    font-size: 9px; } }
+
+@media (max-width: 800px) {
+  html {
+    font-size: 8px; } }
+
+@media (max-width: 700px) {
+  html {
+    font-size: 7px; } }
+
+@media (max-width: 600px) {
+  html {
+    font-size: 6px; } }
+
+@media (max-width: 500px) {
+  html {
+    font-size: 5px; } }
+
+@media (max-width: 400px) {
+  html {
+    font-size: 4px; } }
+
+@media (max-width: 350px) {
+  html {
+    font-size: 3.5px; } }

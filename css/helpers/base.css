@@ -1,0 +1,14 @@
+html {
+  font-family: "Lato - Black", sans-serif; }
+
+.container {
+  text-align: center;
+  width: 100%; }
+
+.block h3 {
+  margin-top: 140px;
+  color: #4f4f4f;
+  font-size: 36px;
+  line-height: 84px;
+  text-transform: uppercase;
+  margin-bottom: 140px; }

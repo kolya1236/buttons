@@ -1,0 +1,40 @@
+.container {
+  text-align: center; }
+
+.buttonsBlock {
+  margin-top: 20px; }
+  .buttonsBlock .small {
+    width: 156px;
+    height: 44px; }
+  .buttonsBlock .big {
+    width: 236px;
+    height: 64px; }
+  .buttonsBlock .ocean {
+    background-color: #4eb7a8; }
+  .buttonsBlock .red {
+    background-color: #e75735; }
+  .buttonsBlock button {
+    margin-right: 60px;
+    border: 0;
+    color: #ffffff;
+    font-size: 24px;
+    text-transform: uppercase;
+    border-radius: 8px; }
+  .buttonsBlock button:last-child {
+    margin-right: 0; }
+
+.withoutColor .red {
+  border: 2px solid #bf3e1f;
+  background-color: #fff;
+  color: #e75735; }
+
+.withoutColor .ocean {
+  border: 2px solid #4eb7a8;
+  background-color: #fff;
+  color: #4eb7a8; }
+
+.borderBottom .red {
+  border-bottom: 4px solid #bf3e1f; }
+
+.borderBottom .ocean {
+  border-bottom: 4px solid #28a290; }

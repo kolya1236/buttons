@@ -1,0 +1,8 @@
+.percents canvas {
+  margin-right: 25px; }
+
+.percents .exp {
+  display: inline-block; }
+  .percents .exp svg {
+    width: 220px;
+    height: 220px; }
